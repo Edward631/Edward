@@ -1,5 +1,4 @@
-# First Reflection
-What I learned this week (bullets are fine, you may include an image):
+# Reflection:
 
 - Topic(s):
 - What I struggled with:
