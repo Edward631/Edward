@@ -1,3 +1,6 @@
+title: ICS4U Student Portfolio - Edward M.
+description: A simple Markdown-based website for ICS4U students
+theme: jekyll-theme-merlot
 # Hi, I'm Edward
 Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
 
