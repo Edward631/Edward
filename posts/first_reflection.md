@@ -5,4 +5,4 @@
 - What I’m proud of:
 - Next steps:
   
-  [Go Back](../main/index.md)
+  [Go Back](../index.md)
